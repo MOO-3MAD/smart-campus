@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">Smart Campus</string>
     <!-- Firebase configuration values -->
-    <string name="google_api_key">AIzaSyCMB-z-gw4ZAoJ-UbXqsDUMpqnFgFN4wZA</string>
+    <string name="google_api_key"></string>
     <string name="google_app_id">1:123456789012:android:1234567890123456</string>
     <string name="firebase_database_url">https://smart-campus-demo-default-rtdb.firebaseio.com</string>
     <string name="gcm_defaultSenderId">123456789012</string>
